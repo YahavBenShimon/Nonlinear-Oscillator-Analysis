@@ -19,10 +19,10 @@ This section discusses the methods used for equilibrium analysis. It explores ho
 Asymptotic approximation analysis is employed to gain a deeper understanding of the system's behavior under specific conditions. This section discusses the methods and results of these approximations.
 
 ## Numerical Solutions
-Numerical solutions are used to explore various aspects of the system's dynamical behavior. Different numerical techniques are applied to gain insights into how the system evolves over time.
+Numerical solutions are used to explore various aspects of the system's dynamic behavior. Different numerical techniques are applied to gain insights into how the system evolves over time.
 
 ## Project Report
-[Project Report](https://github.com/YahavBenShimon/Nonlinear-Oscillator-Analysis/files/12708362/Project.Report.pdf)
+[Project Report.pdf](https://github.com/YahavBenShimon/Nonlinear-Oscillator-Analysis/files/12708371/Project.Report.pdf)
 
 ## Contributors
 - [Yahav Ben Shimon](https://github.com/YahavBenShimon)
